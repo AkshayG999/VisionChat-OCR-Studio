@@ -1,0 +1,12 @@
+
+.pypirc
+dist/ollama-ocr-0.1.2.tar.gz
+/dist
+/src/ollama_ocr.egg-info
+setup.py
+/build/lib/ollama_ocr
+/build
+input/img1.png
+/build
+setup.py
+setup.py
